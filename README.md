@@ -58,7 +58,7 @@ gcc ddos2.c -o ddos2 -lpthread
 sudo python monitor.py
 ```
 
-📍 Keluaran:
+📍 Output:
 - Penggunaan CPU, RAM
 - Total upload/download (MB)
 - Jumlah koneksi aktif
